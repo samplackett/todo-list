@@ -1,6 +1,6 @@
 # Todo List
 
-Super simple todo app built in Python. (Forked)
+Super simple todo app built in Python.
 
 The instructions in this README file assume you are running the application on an Ubuntu or Debian machine.
 
@@ -74,3 +74,4 @@ python3 -m pytest --doctest-modules --junitxml=junit/test-results.xml --cov=appl
 
 This will generate reports that are readable by JUnit and Cobertura.
 
+Look at this fork... in hell!
