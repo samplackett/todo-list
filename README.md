@@ -1,6 +1,6 @@
 # Todo List
 
-Super simple todo app built in Python.
+Super simple todo app built in Python. (Forked)
 
 The instructions in this README file assume you are running the application on an Ubuntu or Debian machine.
 
